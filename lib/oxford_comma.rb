@@ -8,3 +8,4 @@ def oxford_comma(array)
     string = array.join(", ") + ", and " + last
     string
   end
+end
